@@ -1,3 +1,4 @@
+#manager
 import anthropic
 import json
 import time
