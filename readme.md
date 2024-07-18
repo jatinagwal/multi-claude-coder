@@ -1,3 +1,3 @@
-##What is This?
+<H1>What is This?</H1>
 
 So, I have been using Claude's new Sonnet 3.5 a lot but, was frustated by the accuracy and context lengths. One observation is that these model can find mistakes in the code better than generating code. So, which means we can loop between two claude instances(say dev1 & dev2) to critic the responses of each other, till they both reach consenses. This could be more interesting if we can also introduce another instance(say manager) which will distribute tasks among these two devs and this could help us on working larger codebase or more complex problem, also manager will be the only one interacting with the user. These are just first thoughts, hell lot of improvement and work is needed.
